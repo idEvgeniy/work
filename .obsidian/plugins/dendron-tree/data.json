@@ -1,0 +1,11 @@
+{
+  "vaultList": [
+    {
+      "path": "notes",
+      "name": "notes"
+    }
+  ],
+  "autoGenerateFrontmatter": true,
+  "autoReveal": true,
+  "customResolver": false
+}
